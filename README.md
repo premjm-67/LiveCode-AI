@@ -116,7 +116,7 @@ VS Code Extension (MCP Server)
 | Transport | StreamableHTTP via `mcp-remote` |
 | Extension Runtime | VS Code Extension API |
 | Server | Node.js + Express |
-| Language | TypeScript 5.8 |
+| Language | JavaScript|
 | Voice / TTS | `say` npm module |
 | MCP SDK | `@modelcontextprotocol/sdk` |
 | Schema Validation | `zod` |
