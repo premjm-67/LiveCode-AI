@@ -1,11 +1,11 @@
-# 🤖 Live Code AI
+# 🤖TutorX
 
 > **An AI-powered real-time coding tutor that takes full programmatic control over VS Code —
 > creating files, typing code at human speed, and explaining it with synchronized voice output.**
 ---
-## 🎯 What is Live Code AI?
+## 🎯 What is TutorX
 
-Live Code AI is a **VS Code Extension** that acts as an **MCP (Model Context Protocol) Server**,
+TutorX is a **VS Code Extension** that acts as an **MCP (Model Context Protocol) Server**,
 giving Claude Desktop direct programmatic control over your VS Code environment.
 
 Unlike GitHub Copilot which only **suggests** code, Live Code AI goes further:
